@@ -17,3 +17,7 @@ $b=3;
 $c= $a +$b;
 echo $c;
 ?>
+<?php
+echo "<h3>how are you</h3>";
+
+?>
