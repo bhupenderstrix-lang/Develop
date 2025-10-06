@@ -9,6 +9,7 @@
     <?php
     // New paragraph
     <p>Browse data</p>
+     <p>Data should be legal </p>
 ?>
 </body>
 </html> 
